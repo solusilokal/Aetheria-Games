@@ -57,6 +57,24 @@ const singleHtml = `<!doctype html>
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="./logo-aetheria-games.png" />
 
+    <!-- Open Graph / Facebook / WhatsApp -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Aetheria Games" />
+    <meta property="og:url" content="https://solusilokal.github.io/Aetheria-Games/" />
+    <meta property="og:title" content="Aetheria Games - Studio Pengembangan Game Independen" />
+    <meta property="og:description" content="Aetheria Games adalah studio pengembangan game independen yang berdedikasi untuk menciptakan pengalaman bermain yang inovatif, naratif yang mendalam, dan visual yang memukau untuk PC, Konsol, dan Mobile." />
+    <meta property="og:image" content="https://solusilokal.github.io/Aetheria-Games/gambarSEO.png" />
+    <meta property="og:image:secure_url" content="https://solusilokal.github.io/Aetheria-Games/gambarSEO.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:alt" content="Aetheria Games - Studio Pengembangan Game Independen" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://solusilokal.github.io/Aetheria-Games/" />
+    <meta name="twitter:title" content="Aetheria Games - Studio Pengembangan Game Independen" />
+    <meta name="twitter:description" content="Aetheria Games adalah studio pengembangan game independen yang berdedikasi untuk menciptakan pengalaman bermain yang inovatif, naratif yang mendalam, dan visual yang memukau untuk PC, Konsol, dan Mobile." />
+    <meta name="twitter:image" content="https://solusilokal.github.io/Aetheria-Games/gambarSEO.png" />
+
     <!-- Google Fonts: Space Grotesk -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
